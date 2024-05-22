@@ -1,0 +1,794 @@
+.shop .download-12 {
+  background: url('../assets/images/download_12.png') 50% / cover no-repeat;
+  width: 164px;
+  height: 146px;
+}
+.shop .home {
+  margin: 11px 48.7px 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .orders {
+  margin: 11px 48.7px 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .page {
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .button {
+  box-shadow: var(--button-shadow, 0px 1px 2px 0px rgba(0, 0, 0, 0.05));
+  border-radius: 8px;
+  background: #FFF5F5;
+  margin-right: 48px;
+  display: flex;
+  padding: 11px 0.8px 11px 0;
+  width: 131px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.shop .contac {
+  margin: 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .navigation {
+  background: #FFFFFF;
+  margin-bottom: 38px;
+  display: flex;
+  flex-direction: row;
+  padding: 41.5px 55.5px 14.5px 0;
+  width: 597px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.shop .container-1 {
+  margin: 0 0 23px 89px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1293px;
+  box-sizing: border-box;
+}
+.shop .banana-leaf-1 {
+  margin-bottom: 31px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 96px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.shop .order-now {
+  overflow-wrap: break-word;
+  font-family: var(--small-text-font-family, 'Inter');
+  font-weight: var(--small-text-font-weight, 500);
+  font-size: var(--small-text-font-size, 16px);
+  line-height: var(--small-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .secondary-button {
+  border-radius: 8px;
+  background: #EEEEEE;
+  margin-left: 32.3px;
+  display: flex;
+  padding: 8px 0.6px 8px 0;
+  width: 191px;
+  box-sizing: border-box;
+}
+.shop .container-10 {
+  background: url('../assets/images/images_71.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 5px 41px 95px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 103px 0 278px 0;
+  width: 1282px;
+  box-sizing: border-box;
+}
+.shop .special {
+  margin: 0 85px 14px 85px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 1.1;
+  color: #000000;
+}
+.shop .download-1 {
+  background: url('../assets/images/download_1.jpeg');
+  margin-bottom: 20px;
+  width: 349px;
+  height: 227px;
+}
+.shop .pizza {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .description-of-first-product {
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #828282;
+}
+.shop .rs-1999 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .copy-2 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 34px 0;
+  box-sizing: border-box;
+}
+.shop .card-2 {
+  margin: 0 90px 17.2px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.shop .images-1 {
+  background: url('../assets/images/images_1.jpeg');
+  margin-bottom: 24px;
+  width: 404px;
+  height: 227px;
+}
+.shop .burger {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .description-of-second-product {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #828282;
+}
+.shop .rs-8501 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .copy-3 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.shop .card-3 {
+  margin: 11px 35px 2.2px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.shop .download-11 {
+  background: url('../assets/images/download_11.jpeg') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 384px;
+  height: 229.2px;
+}
+.shop .takos {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .description-of-third-product {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #828282;
+}
+.shop .rs-250 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .copy-4 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.shop .card-4 {
+  margin-top: 11px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.shop .container-4 {
+  margin: 0 6px 46.8px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.shop .download-21 {
+  background: url('../assets/images/download_21.jpeg');
+  width: 382px;
+  height: 246px;
+}
+.shop .biriyani {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .description-of-fourth-product {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #828282;
+}
+.shop .rs-950 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .copy-5 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.shop .card-5 {
+  position: relative;
+  margin: 0 57px 6px 0;
+  display: flex;
+  width: 382px;
+  height: 368px;
+  box-sizing: border-box;
+}
+.shop .images-11 {
+  background: url('../assets/images/images_11.jpeg');
+  width: 404px;
+  height: 248px;
+}
+.shop .kottu {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .description-of-fifth-product {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #828282;
+}
+.shop .rs-8502 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .copy-6 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.shop .card-6 {
+  position: relative;
+  margin: 0 35px 4px 0;
+  display: flex;
+  width: 404px;
+  height: 370px;
+  box-sizing: border-box;
+}
+.shop .download-31 {
+  background: url('../assets/images/download_31.jpeg');
+  width: 390px;
+  height: 252px;
+}
+.shop .noodles {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .description-of-sixth-product {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #828282;
+}
+.shop .rs-430 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .copy-7 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.shop .card-7 {
+  position: relative;
+  display: flex;
+  width: 390px;
+  height: 374px;
+  box-sizing: border-box;
+}
+.shop .container-9 {
+  display: flex;
+  flex-direction: row;
+  width: 1268px;
+  box-sizing: border-box;
+}
+.shop .card-grid {
+  margin: 0 19px 66px 95px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.shop .to-day-top {
+  backdrop-filter: blur(2px);
+  border: 1px solid #000000;
+  margin: 0 76px 25px 76px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--heading-font-family, 'Inter');
+  font-weight: var(--heading-font-weight, 600);
+  font-size: var(--heading-font-size, 40px);
+  line-height: var(--heading-line-height, 1.1);
+  color: #000000;
+}
+.shop .images-21 {
+  background: url('../assets/images/images_21.jpeg');
+  margin-bottom: 25px;
+  width: 622px;
+  height: 743px;
+}
+.shop .pride-rice {
+  margin: 0 28px 3px 28px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .description-of-lower-product-1 {
+  margin: 0 28px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #828282;
+}
+.shop .container-3 {
+  margin-right: 71px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.shop .download-41 {
+  background: url('../assets/images/download_41.jpeg');
+  margin-bottom: 24px;
+  width: 560px;
+  height: 206px;
+}
+.shop .homestyle-potato-chips {
+  margin: 0 20.8px 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .description-of-top-product {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #828282;
+}
+.shop .rs-499 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .copy {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.shop .card {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.shop .images-41 {
+  background: url('../assets/images/images_41.jpeg') 50% / cover no-repeat;
+  margin: 0 25px 2px 0;
+  width: 194px;
+  height: 260px;
+}
+.shop .images-51 {
+  background: url('../assets/images/images_51.jpeg') 50% / cover no-repeat;
+  margin: 2px 12px 0 0;
+  width: 173px;
+  height: 260px;
+}
+.shop .images-61 {
+  background: url('../assets/images/images_61.jpeg') 50% / cover no-repeat;
+  margin-top: 2px;
+  width: 159px;
+  height: 260px;
+}
+.shop .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 563px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.shop .cream-of-mushroom-soup {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .description-of-lower-product {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #828282;
+}
+.shop .rs-850 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .copy-1 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.shop .card-1 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  width: 563px;
+  height: 382px;
+  box-sizing: border-box;
+}
+.shop .card-list {
+  position: relative;
+  margin: 29px 0 24px 0;
+  display: flex;
+  padding-right: 3px;
+  height: 778px;
+  box-sizing: border-box;
+}
+.shop .container-7 {
+  margin: 0 50px 3px 76px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.shop .rs-1500 {
+  margin: 0 104px 98px 104px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.shop .images-2 {
+  background: url('../assets/images/images_2.png') 50% / cover no-repeat;
+  position: absolute;
+  right: -2px;
+  bottom: 11px;
+  width: 130px;
+  height: 98px;
+}
+.shop .banana-leaf {
+  margin: 27px 18px 9.5px 0;
+  display: inline-block;
+  width: 798px;
+  overflow-wrap: break-word;
+  font-family: var(--subheading-font-family, 'Inter');
+  font-weight: var(--subheading-font-weight, 400);
+  font-size: var(--subheading-font-size, 24px);
+  line-height: var(--subheading-line-height, 1.5);
+  color: #000000;
+}
+.shop .pitigalamannagoda {
+  margin: 0 0 0.5px 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--subheading-font-family, 'Inter');
+  font-weight: var(--subheading-font-weight, 400);
+  font-size: var(--subheading-font-size, 24px);
+  line-height: var(--subheading-line-height, 1.5);
+  color: #000000;
+}
+.shop .container {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--subheading-font-family, 'Inter');
+  font-weight: var(--subheading-font-weight, 400);
+  font-size: var(--subheading-font-size, 24px);
+  line-height: var(--subheading-line-height, 1.5);
+  color: #000000;
+}
+.shop .container {
+  margin-right: 0px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.shop .container-5 {
+  margin: 0 0 3.5px 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1097.5px;
+  box-sizing: border-box;
+}
+.shop .icon {
+  width: 20px;
+  height: 19.9px;
+}
+.shop .buttons-icon {
+  border-radius: 4px;
+  margin: 0px 0;
+  display: flex;
+  width: 20px;
+  height: 19.9px;
+  box-sizing: border-box;
+}
+.shop .icon-1 {
+  width: 18px;
+  height: 18px;
+}
+.shop .buttons-icon-1 {
+  border-radius: 4px;
+  margin: 1px 0;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.shop .icon-2 {
+  width: 20px;
+  height: 14px;
+}
+.shop .buttons-icon-2 {
+  border-radius: 4px;
+  margin: 3px 0;
+  display: flex;
+  width: 20px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.shop .icon-3 {
+  width: 20px;
+  height: 20px;
+}
+.shop .buttons-icon-3 {
+  border-radius: 4px;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.shop .social-icons {
+  margin-bottom: 19.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 164px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.shop .sri-lanka-foods {
+  margin-top: 3.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--subheading-font-family, 'Inter');
+  font-weight: var(--subheading-font-weight, 400);
+  font-size: var(--subheading-font-size, 24px);
+  line-height: var(--subheading-line-height, 1.5);
+  color: #000000;
+}
+.shop .container-2 {
+  margin-right: 101.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1008.3px;
+  box-sizing: border-box;
+}
+.shop .container-8 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1109.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.shop .divider {
+  background: #E6E6E6;
+  position: absolute;
+  top: 1px;
+  right: -71px;
+  width: 1280px;
+  height: 1px;
+}
+.shop .navigation-footer {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 93px;
+  display: flex;
+  padding: 151px 88.5px 9.5px 91px;
+  width: 1289px;
+  box-sizing: border-box;
+}
+.shop {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 36px 43px 40px 0;
+  width: 1425px;
+  box-sizing: border-box;
+}
